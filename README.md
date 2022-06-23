@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MPappia
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Pyhton and HTML/CSS
+- 📫 How to reach me ? By Discord : KNRD#0205
