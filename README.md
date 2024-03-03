@@ -6,4 +6,4 @@
   -   By Discord : KNRD#0205
   -   @mail : elliot.fabert@chartes.psl.eu
   
-  See you on a Stackoverflow topic, certainly.
+See you on a Stackoverflow topic, certainly 🥸
