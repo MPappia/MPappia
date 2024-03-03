@@ -5,4 +5,5 @@
 - 📫 How to reach me ?
   -   By Discord : KNRD#0205
   -   @mail : elliot.fabert@chartes.psl.eu
--   On a Stackoverflow topic, certainly. 
+  
+  See you on a Stackoverflow topic, certainly.
