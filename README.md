@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MPappia
-- 📗 Junior Data Engineer and Application Developer
+- 📗 Junior Data Engineer
 - 🌱 Python 
 - 🤖 Interest in AI and computer vision.
 - 📫 How to reach me ?
